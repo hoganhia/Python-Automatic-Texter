@@ -14,6 +14,7 @@ Direct SMS to number and what message
 Test with textbelt key
 
 Success!
+
 ![singletext](https://user-images.githubusercontent.com/129915038/232648146-7789cb81-720c-42ae-a7d7-0ecf7b95525b.jpg)
 
 Next let's go set up the automated program
@@ -27,4 +28,5 @@ Schedule time and frequency
 Run it 
 
 Successfully annoy your friend every day right when they wake up
+
 ![annoymattfull](https://user-images.githubusercontent.com/129915038/232648898-0ae24ce6-6a02-4bee-9f64-8b377ccab08b.jpg)
